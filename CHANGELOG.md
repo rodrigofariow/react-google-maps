@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.3](https://github.com/visgl/react-google-maps/compare/v0.8.2...v0.8.3) (2024-04-01)
+
+
+### Bug Fixes
+
+* map controls crashing when invalid key is provided ([#290](https://github.com/visgl/react-google-maps/issues/290)) ([5052dfb](https://github.com/visgl/react-google-maps/commit/5052dfbf3735ff07319b7bd7108ae9448b0c2840))
+
 ## [0.8.2](https://github.com/visgl/react-google-maps/compare/v0.8.1...v0.8.2) (2024-03-29)
 
 
